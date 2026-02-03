@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": "1.0",
   "artifacts": [
@@ -10,4 +11,18 @@
   "settings": {
     "enableAutoRecovery": true
   }
+=======
+{
+  "version": "1.0",
+  "artifacts": [
+    {
+      "report": {
+        "path": "Sale report analysis Pro.Report"
+      }
+    }
+  ],
+  "settings": {
+    "enableAutoRecovery": true
+  }
+>>>>>>> 07b0b3101db8a21099b2a4f2b48e36dcb2a28f92
 }
