@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Sale report analysis Pro.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

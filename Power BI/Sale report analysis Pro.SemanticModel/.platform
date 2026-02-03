@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Sale report analysis Pro"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "522d80f2-3be4-4567-8d7f-8da744cf64fc"
+  }
+}
